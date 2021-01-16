@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "repoAngularProject"
+  "defaultProject": "repoAngularProject",
+  "cli": {
+    "analytics": "c3c3e857-09b3-4d5e-b336-73f911d6d673"
+  }
 }
